@@ -27,7 +27,7 @@ const vip = '/passport/v1/sdk/getuserinfo';
 
 if (url.indexOf(vip) != -1) {
 	obj.data.userinfo.vip_info ["is_vip"] = "Y";
-     obj.data.userinfo.vip_info ["end_time_fmt"] = "你死之时";
+     obj.data.userinfo.vip_info ["end_time_fmt"] = "2212-12-12";
 	body = JSON.stringify(obj);
  }
 $done({body});
