@@ -72,7 +72,7 @@ const engineData = {
 	ddg: "https://duckduckgo.com/?ia=about&q=%@",
 	// Google
 	gl: "https://www.google.com/search?q=%@",
-	"@default": "gl",
+	"@default": "bd",
 };
 
 let commands = Object.keys(engineData);
