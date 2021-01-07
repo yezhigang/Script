@@ -6,7 +6,7 @@
   "repo": "https://github.com/yezhigang/Script",
   "apps": [{
     "id": "qqreadsp",
-   "name": "QQ阅读多账号(自用)",
+   "name": "QQ阅读多账号",
       "descs_html": [
         "使用说明：",
 	      "为了一步到位成功，❗请按以下步骤操作❗，尽量避免出错。老鸟飘过(*^_^*)",
