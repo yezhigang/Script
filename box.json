@@ -36,8 +36,20 @@
      "repo": ["https://github.com/xingliuchao/jd/blob/main/QQread.js"],
      "author": "@xingliuchao",    
      "icons": ["https://raw.githubusercontent.com/xingliuchao/jd/main/xingliuchao.png", "https://raw.githubusercontent.com/xingliuchao/jd/main/png/qieread.png"] 
-  },
-  {
+     },
+     {
+    "id": "QreadAPP",
+    "name": "QQ阅读APP",
+     "descs_html": [
+       "使用说明:",
+	  "签到，看视频，开宝箱--cookie引用在QQreadCookie内"],
+    "keys": ["QQreadhd", "QQreadvideohd"],
+    "author": "@xingliuchao",
+    "repo": "https://github.com/ziye12/JavaScript/blob/master/Task/QQread.js",
+    "icons": ["https://raw.githubusercontent.com/xingliuchao/jd/main/xingliuchao.png", "https://raw.githubusercontent.com/xingliuchao/jd/main/png/QQreadapp.png"],
+    "script": "https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/QQread.js"
+     },
+     {
       "id": "carhome",
       "name": "汽车之家极速版",
       "descs_html": [
@@ -92,18 +104,6 @@
       "icons": ["https://raw.githubusercontent.com/xingliuchao/jd/main/xingliuchao.png", "https://raw.githubusercontent.com/xingliuchao/jd/main/png/carhome.png"],
       "repo": "https://github.com/ziye12/QCZJSPEED/blob/main/Task/qczjspeed.js",
       "script": "https://raw.githubusercontent.com/ziye12/QCZJSPEED/main/Task/qczjspeed.js"    
-      },  
-     {
-    "id": "QreadAPP",
-    "name": "QQ阅读APP",
-     "descs_html": [
-       "使用说明:",
-	  "签到，看视频，开宝箱--cookie引用在QQreadCookie内"],
-    "keys": ["QQreadhd", "QQreadvideohd"],
-    "author": "@xingliuchao",
-    "repo": "https://github.com/ziye12/JavaScript/blob/master/Task/QQread.js",
-    "icons": ["https://raw.githubusercontent.com/xingliuchao/jd/main/xingliuchao.png", "https://raw.githubusercontent.com/xingliuchao/jd/main/png/QQreadapp.png"],
-    "script": "https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/QQread.js"
      },
      {
     "id": "jrtt",
